@@ -5,5 +5,5 @@
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitDevla&theme=github_dark) 
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDevla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDevla&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>

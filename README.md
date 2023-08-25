@@ -6,7 +6,7 @@ My name is David, I'm just a first-year undergraduate from Hungary who enjoys co
 
 Languages I'm familiar with<br>
 <a href="https://skillicons.dev">
-  <img height="30" src="https://skillicons.dev/icons?i=js,ts,html,css,cs,php,mysql,rust,py&theme=dark">
+  <img height="30" src="https://skillicons.dev/icons?i=js,ts,html,css,cs,rust,php,mysql,py&theme=dark">
 </a>
 
 Frameworks I used before<br>

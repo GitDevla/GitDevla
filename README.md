@@ -1,26 +1,27 @@
 # Heyya 👋
 
-*insert generic introduction here*
-
-## 📬 Contacts
-(soon)
+My name is David, I'm just a first-year undergraduate from Hungary who enjoys coding stuff.
 
 ## 👨🏻‍💻 Tech Stuff
 
-- Languages I'm familiar with<br>
-<a href="https://skillicons.dev"><img height="30"
-    src="https://skillicons.dev/icons?i=js,ts,html,css,cs,php,mysql,py&theme=dark"></a>
+Languages I'm familiar with<br>
+<a href="https://skillicons.dev">
+  <img height="30" src="https://skillicons.dev/icons?i=js,ts,html,css,cs,php,mysql,rust,py&theme=dark">
+</a>
 
-- Frameworks I tried before<br>
-<a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=express,nextjs&theme=dark"></a>
+Frameworks I used before<br>
+<a href="https://skillicons.dev">
+  <img height="30" alt="Programing Frameworks" src="https://skillicons.dev/icons?i=express,nextjs&theme=dark">
+</a>
 
-- Environment I work in<br>
-<a href="https://skillicons.dev"><img height="30"
-    src="https://skillicons.dev/icons?i=linux,vscode,raspberrypi,git,docker&theme=dark"></a>
+Environments I work in<br>
+<a href="https://skillicons.dev">
+  <img height="30" src="https://skillicons.dev/icons?i=linux,vscode,raspberrypi,git,docker&theme=dark">
+</a>
 
 <details>
   <summary>
-    <h2>📈 GitHub Stats</h2>
+    <h2>📈 Meaningless GitHub Stats</h2>
   </summary>
   <div align="center">
     <img width="30%"
@@ -35,6 +36,7 @@
   </div>
 </details>
 
+> *Let's fall and fall into the vortex of this hole-dwelling life*
 
 [**octo ring**](https://octo-ring.com/)
 [[prev](https://octo-ring.com/p/GitDevla/prev)] [[random](https://octo-ring.com/p/GitDevla/random)]

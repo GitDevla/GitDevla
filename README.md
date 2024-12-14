@@ -1,6 +1,6 @@
 # Heyya 👋
 
-My name is David, I'm just a first-year undergraduate from Hungary who enjoys coding stuff.
+My name is David, I'm just a second-year undergraduate from Hungary who enjoys coding stuff.
 
 ## 👨🏻‍💻 Tech Stuff
 
